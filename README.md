@@ -28,7 +28,7 @@ School Management System – A desktop application for the Nigerian Defence Acad
 
 🎓 Achievements & Education
 
-First Class B.Sc. in Computer Science – Kaduna State University (CGPA: 4.56/5.00).
+First Class B.Sc. in Computer Science – Kaduna State University (CGPA: 4.59/5.00).
 
 Best Graduating Student in the Faculty of Computing.
 
